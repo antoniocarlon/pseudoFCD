@@ -1,4 +1,4 @@
-##Pseudo Forest Canopy Density (pseudo-FCD)
+## Pseudo Forest Canopy Density (pseudo-FCD)
 
 **Pseudo Forest Canopy Density** is a script for the **Sentinel-hub EO-Browser** (https://apps.sentinel-hub.com/eo-browser) that classifies each pixel of the satellite images into one of the following categories:
  * High Forest
