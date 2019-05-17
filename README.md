@@ -24,11 +24,11 @@ Althought the default threesholds for each category work quite good for most of 
 
 #### Examples
 
-![Image 1](/images/Image1.png)
-![Image 2](/images/Image2.png)
-![Image 3](/images/Image3.png)
-![Image 4](/images/Image4.png)
+![Image 1](https://github.com/antoniocarlon/pseudoFCD/raw/master/images/image1.png)
+![Image 2](https://github.com/antoniocarlon/pseudoFCD/raw/master/images/image2.png)
+![Image 3](https://github.com/antoniocarlon/pseudoFCD/raw/master/images/image3.png)
+![Image 4](https://github.com/antoniocarlon/pseudoFCD/raw/master/images/image4.png)
 
 #### References
 
-[1] Azadeh ABDOLLAHNEJAD*, Dimitrios PANAGIOTIDIS, Peter SUROVÝ. "Forest canopy density assessment using different approaches – Review". Journal of Forest Science, 63, 2017 (3): 106–115. https://www.agriculturejournals.cz/publicFiles/210529.pdf
+[1] Azadeh ABDOLLAHNEJAD*, Dimitrios PANAGIOTIDIS, Peter SUROVÝ. "Forest canopy density assessment using different approaches – Review". Journal of Forest Science, 63, 2017 (3): 106–115. https://www.agriculturejournals.cz/publicFiles/210529.pdf
